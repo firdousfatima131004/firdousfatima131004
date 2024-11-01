@@ -1,19 +1,12 @@
 <h1 align="center">Hi 👋, I'm Sheikh Firdous Fatima</h1>
 <h3 align="center">A passionate Web Developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=firdousfatima131004&label=Profile%20views&color=0e75b6&style=flat" alt="firdousfatima131004" /> </p>
+[![An image of @firdousfatima131004's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/firdousfatima131004)](https://holopin.io/@firdousfatima131004)
 
-- 🔭 I’m currently working on **Ecommerce app**
-
-- 🌱 I’m currently learning **Full Stack Web Development**
-
+- 🌱 I’m currently learning **Flask**
+-  💬 Ask me about **Python,Bootstrap,Javascript**
 - 👯 I’m looking to collaborate on **Mysql Projects**
-
-- 🤝 I’m looking for help with **Web Development
-- 💬 Ask me about **HTML5,CSS3**
-
 - 📫 How to reach me **Firdousfatima131004@gmail.com**
-
 - ⚡ Fun fact **I am a Marvel and anime fan**
 
 <h3 align="left">Connect with me:</h3>
